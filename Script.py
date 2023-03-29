@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>ʜᴇʟʟᴏ {}
 
-ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
+ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ modded app and movies,
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
 ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.</b>"""
 
@@ -11,16 +11,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/kunal_nagar_01>𒆜 𝖪ᴜɴᴀʟ ࿐</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/soonbotmaker0>P⃠r⃠a⃠d⃠a⃠r⃠s⃠h⃠</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/kd_botz>KD Bᴏᴛᴢ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/mittalbots>MITTAL BOTS</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://github.com/kdbotz/LUCIFER>DEVIL LUCIFER</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/soonbotmaker0</a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -50,7 +50,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/kd_botz)</code>
+<code>[Button Text](buttonurl:https://t.me/mittalbots)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
